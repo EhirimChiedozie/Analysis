@@ -38,3 +38,6 @@ traitlets==5.14.3
 typing_extensions==4.12.2
 tzdata==2025.1
 wcwidth==0.2.13
+
+
+postgresql://edozie_project_922b_user:LJyOXXE7ce2SP7alL2GgBJMzMSgyEb7K@dpg-cumb431u0jms73bn1s6g-a.oregon-postgres.render.com/edozie_project_922b
